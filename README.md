@@ -7,83 +7,35 @@ This repository contains simple beginner-friendly JavaScript projects created fo
 ## 📂 Projects Included
 
 ### 🧮 Calculator
-A basic calculator that performs:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-Built using HTML, CSS, and JavaScript.
-
----
+A basic calculator that performs addition, subtraction, multiplication, and division.
 
 ### 🕒 Digital Clock
-A real-time digital clock that displays the current time and updates every second using `setInterval()`.
-
----
+A real-time digital clock that updates every second using setInterval().
 
 ### 🎯 Number Guessing Game
-A simple game where:
-- The system generates a random number
-- The user tries to guess the number
-- Feedback is given (Too High / Too Low)
-
----
+A simple number guessing game with random number generation.
 
 ### ✊ Rock Paper Scissors
-A mini game where:
-- User chooses Rock, Paper, or Scissors
-- Computer generates random choice
-- Winner is displayed instantly
-
----
+User vs Computer Rock Paper Scissors game.
 
 ### ⏱ Stop Watch
-A stopwatch with:
-- Start
-- Stop
-- Reset functionality
-
-Uses JavaScript timing functions.
-
----
+Start, Stop, and Reset stopwatch built using JavaScript timing functions.
 
 ### 🌡 Temperature Converter
-Convert temperature between:
-- Celsius
-- Fahrenheit
-- Kelvin
+Convert between Celsius and Fahrenheit.
 
----
-
-### 🌐 Website Project
-A simple responsive website built using HTML, CSS, and JavaScript.
+### 🌐 Website
+A simple responsive website project.
 
 ---
 
 ## 🛠 Technologies Used
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+- HTML
+- CSS
+- JavaScript
 
 ---
-
-## 🎯 Purpose
-These projects are created to:
-- Practice JavaScript fundamentals
-- Understand DOM manipulation
-- Improve logical thinking
-- Strengthen frontend basics
-
----
-
-## 📌 Future Improvements
-- Add better UI design
-- Add animations
-- Improve responsiveness
-- Add more advanced projects
-
----
-
 ## 👨‍💻 Author
 Sriram Pranav
+## 👨‍💻 Author
+Your Name
