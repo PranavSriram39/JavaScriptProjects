@@ -37,5 +37,3 @@ A simple responsive website project.
 ---
 ## 👨‍💻 Author
 Sriram Pranav
-## 👨‍💻 Author
-Your Name
